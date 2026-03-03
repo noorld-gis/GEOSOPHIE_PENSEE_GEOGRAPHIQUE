@@ -17,3 +17,5 @@ Réflexion théorique sur la géosophie comme expansion de la pensée géographi
 - Maurice Merleau-Ponty – *Phénoménologie de la perception* (1945)
 - Kevin Lynch – *The Image of the City* (1960)
 - Michel Foucault – travaux sur les hétérotopies
+
+Pour accèder au texte complet -> [La géosophie comme expansion de la pensée géographique](essai.md)
